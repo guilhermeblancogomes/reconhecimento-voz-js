@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+    padding: 10px;
+    background: brown;
+    color: #ffffff;
+}
+.btn-buscar{
+    padding: 10px;
+    border-radius: 50%;
+    border: none;
+    width: 100px;
+    height: 100px;
+    font-size: 1.2em;
+    background: #fff;
+    color: brown
+}
+.btn-buscar:hover{
+    background: #111;
+    color: #fff;
+    cursor: pointer;
+}
+.escurecer{
+    background: #111;
+    color: #fff;
+    transition: 2s;
+
+}
+.clarear{
+    background: #fff;
+    color: #111;
+    transition: 2s;
+
+}
